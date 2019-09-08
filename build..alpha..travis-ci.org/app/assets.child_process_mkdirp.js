@@ -1,6 +1,6 @@
 // usr/bin/env node
 /*
- * lib.child_process_mkdirp.js (0.0.1)
+ * lib.child_process_mkdirp.js (2019.9.8)
  * https://github.com/kaizhu256/node-child-process-mkdirp
  * the greatest app in the world!
  *

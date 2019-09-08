@@ -70065,7 +70065,7 @@ local.stateInit({
 /* jslint ignore:start */
 local.assetsDict["/assets.child_process_mkdirp.js"] = "// usr/bin/env node\n\
 /*\n\
- * lib.child_process_mkdirp.js (0.0.1)\n\
+ * lib.child_process_mkdirp.js (2019.9.8)\n\
  * https://github.com/kaizhu256/node-child-process-mkdirp\n\
  * the greatest app in the world!\n\
  *\n\
@@ -70296,7 +70296,7 @@ return;\n\
 
 // usr/bin/env node
 /*
- * lib.child_process_mkdirp.js (0.0.1)
+ * lib.child_process_mkdirp.js (2019.9.8)
  * https://github.com/kaizhu256/node-child-process-mkdirp
  * the greatest app in the world!
  *

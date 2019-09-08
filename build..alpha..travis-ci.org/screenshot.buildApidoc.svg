@@ -1,9 +1,9 @@
-<svg height="1054" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="1054" fill="#555" width="720"></rect>
+<svg height="1262" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1262" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
 
-<tspan x="10" y="42">\x1b[35m[MODE_BUILD=buildApidoc]\x1b[0m - 2019-09-08T17:51:53.418Z - npm-testing /home/travis/bu\</tspan>
+<tspan x="10" y="42">\x1b[35m[MODE_BUILD=buildApidoc]\x1b[0m - 2019-09-08T17:55:16.471Z - npm-testing /home/travis/bu\</tspan>
 <tspan x="10" y="58">ild/kaizhu256/node-child-process-mkdirp</tspan>
 
 <tspan x="10" y="74"></tspan>
@@ -13,7 +13,7 @@
 <tspan x="10" y="106">buildApidoc - merged test-report from file /home/travis/build/kaizhu256/node-child-process-mkdir\</tspan>
 <tspan x="10" y="122">p/tmp/build/test-report.json</tspan>
 
-<tspan x="10" y="138">&gt; http-server listening on port 33350</tspan>
+<tspan x="10" y="138">&gt; http-server listening on port 42591</tspan>
 
 <tspan x="10" y="154">db - dropping database ...</tspan>
 
@@ -54,71 +54,92 @@
 
 <tspan x="10" y="474"></tspan>
 
-<tspan x="10" y="490">testRunDefault - 89501 ms - [node test-case 1 of 1 passed] - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="490">testRunDefault - 292566 ms - [node test-case 1 of 1 passed] - testCase_buildApidoc_default</tspan>
 
-<tspan x="10" y="506">jslint - 191ms /home/travis/build/kaizhu256/node-child-process-mkdirp/README.md</tspan>
+<tspan x="10" y="506">jslint - 201ms /home/travis/build/kaizhu256/node-child-process-mkdirp/README.md</tspan>
 
-<tspan x="10" y="522">jslint - 38ms /home/travis/build/kaizhu256/node-child-process-mkdirp/lib.child_process_mkdirp.js</tspan>
+<tspan x="10" y="522">jslint - 39ms /home/travis/build/kaizhu256/node-child-process-mkdirp/lib.child_process_mkdirp.js</tspan>
 
-<tspan x="10" y="538">jslint - 1ms /home/travis/build/kaizhu256/node-child-process-mkdirp/npm_scripts.sh</tspan>
+<tspan x="10" y="538">jslint - 2ms /home/travis/build/kaizhu256/node-child-process-mkdirp/npm_scripts.sh</tspan>
 
-<tspan x="10" y="554">jslint - 1ms /home/travis/build/kaizhu256/node-child-process-mkdirp/package.json</tspan>
+<tspan x="10" y="554">jslint - 0ms /home/travis/build/kaizhu256/node-child-process-mkdirp/package.json</tspan>
 
-<tspan x="10" y="570">jslint - 18ms /home/travis/build/kaizhu256/node-child-process-mkdirp/test.js</tspan>
+<tspan x="10" y="570">jslint - 21ms /home/travis/build/kaizhu256/node-child-process-mkdirp/test.js</tspan>
 
-<tspan x="10" y="586">testRunDefault - 90307 ms - testCase pending -  ...</tspan>
+<tspan x="10" y="586"></tspan>
 
-<tspan x="10" y="602"></tspan>
+<tspan x="10" y="602">buildApidoc - merged test-report from file /home/travis/build/kaizhu256/node-child-process-mkdir\</tspan>
+<tspan x="10" y="618">p/tmp/build/test-report.json</tspan>
 
-<tspan x="10" y="618">buildApidoc - merged test-report from file /home/travis/build/kaizhu256/node-child-process-mkdir\</tspan>
-<tspan x="10" y="634">p/tmp/build/test-report.json</tspan>
+<tspan x="10" y="634"></tspan>
 
-<tspan x="10" y="650"></tspan>
+<tspan x="10" y="650">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="666">-------------------------------------------------------</tspan>
+<tspan x="10" y="666">| test-report - buildApidoc - node - linux v12.10.0 - 2019-09-08T17:50:24.234Z</tspan>
 
-<tspan x="10" y="682">| test-report - buildApidoc - node - linux v12.10.0 - 2019-09-08T17:50:24.234Z</tspan>
+<tspan x="10" y="682">|  292571 ms            0 failed        1 passed      |</tspan>
 
-<tspan x="10" y="698">|   89504 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="698">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="714">-------------------------------------------------------</tspan>
+<tspan x="10" y="714">| test-report - buildApp - node - linux v12.10.0 - 2019-09-08T17:50:05.060Z</tspan>
 
-<tspan x="10" y="730">| test-report - buildApp - node - linux v12.10.0 - 2019-09-08T17:50:05.060Z</tspan>
+<tspan x="10" y="730">|   16918 ms            0 failed        7 passed      |</tspan>
 
-<tspan x="10" y="746">|   16918 ms            0 failed        7 passed      |</tspan>
+<tspan x="10" y="746">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="762">-------------------------------------------------------</tspan>
+<tspan x="10" y="762">| test-report - deployGithubTest - browser - /node-child-process-mkdirp/build..alpha..travis-ci.\</tspan>
+<tspan x="10" y="778">org/app/ - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome\</tspan>
+<tspan x="10" y="794">/76.0.3809.132 Safari/537.36 - 2019-09-08T17:52:47.917Z</tspan>
 
-<tspan x="10" y="778">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
-<tspan x="10" y="794">L, like Gecko) HeadlessChrome/76.0.3809.132 Safari/537.36 - 2019-09-08T17:50:17.894Z</tspan>
-
-<tspan x="10" y="810">|    1004 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="810">|    1005 ms            0 failed        1 passed      |</tspan>
 
 <tspan x="10" y="826">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="842">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
-<tspan x="10" y="858">L, like Gecko) HeadlessChrome/76.0.3809.132 Safari/537.36 - 2019-09-08T17:51:46.818Z</tspan>
+<tspan x="10" y="842">| test-report - deployGithubTest - browser - /node-child-process-mkdirp/build..alpha..travis-ci.\</tspan>
+<tspan x="10" y="858">org/app/ - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome\</tspan>
+<tspan x="10" y="874">/76.0.3809.132 Safari/537.36 - 2019-09-08T17:52:47.967Z</tspan>
 
-<tspan x="10" y="874">|    1005 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="890">|    1004 ms            0 failed        1 passed      |</tspan>
 
-<tspan x="10" y="890">-------------------------------------------------------</tspan>
+<tspan x="10" y="906">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="906"></tspan>
+<tspan x="10" y="922">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="938">L, like Gecko) HeadlessChrome/76.0.3809.132 Safari/537.36 - 2019-09-08T17:50:17.894Z</tspan>
 
-<tspan x="10" y="922">created test-report file /home/travis/build/kaizhu256/node-child-process-mkdirp/tmp/build/test-r\</tspan>
-<tspan x="10" y="938">eport.html</tspan>
+<tspan x="10" y="954">|    1004 ms            0 failed        1 passed      |</tspan>
 
-<tspan x="10" y="954"></tspan>
+<tspan x="10" y="970">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="970"></tspan>
+<tspan x="10" y="986">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="1002">L, like Gecko) HeadlessChrome/76.0.3809.132 Safari/537.36 - 2019-09-08T17:51:46.818Z</tspan>
 
-<tspan x="10" y="986">buildApidoc - 0 failed tests</tspan>
+<tspan x="10" y="1018">|    1005 ms            0 failed        1 passed      |</tspan>
 
-<tspan x="10" y="1002"></tspan>
+<tspan x="10" y="1034">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="1018"></tspan>
+<tspan x="10" y="1050">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="1066">L, like Gecko) HeadlessChrome/76.0.3809.132 Safari/537.36 - 2019-09-08T17:55:09.784Z</tspan>
 
-<tspan x="10" y="1034">\x1b[35m[MODE_BUILD=buildApidoc]\x1b[0m - 2019-09-08T17:51:55.059Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="1082">|    1005 ms            0 failed        1 passed      |</tspan>
+
+<tspan x="10" y="1098">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="1114"></tspan>
+
+<tspan x="10" y="1130">created test-report file /home/travis/build/kaizhu256/node-child-process-mkdirp/tmp/build/test-r\</tspan>
+<tspan x="10" y="1146">eport.html</tspan>
+
+<tspan x="10" y="1162"></tspan>
+
+<tspan x="10" y="1178"></tspan>
+
+<tspan x="10" y="1194">buildApidoc - 0 failed tests</tspan>
+
+<tspan x="10" y="1210"></tspan>
+
+<tspan x="10" y="1226"></tspan>
+
+<tspan x="10" y="1242">\x1b[35m[MODE_BUILD=buildApidoc]\x1b[0m - 2019-09-08T17:55:18.147Z - EXIT_CODE - 0</tspan>
 
 </text>
 </svg>
