@@ -1,9 +1,9 @@
-<svg height="1150" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="1150" fill="#555" width="720"></rect>
+<svg height="1358" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1358" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
 
-<tspan x="10" y="42">\x1b[35m[MODE_BUILD=npmTest]\x1b[0m - 2019-09-08T17:50:16.075Z - npm-testing /home/travis/build/\</tspan>
+<tspan x="10" y="42">\x1b[35m[MODE_BUILD=npmTest]\x1b[0m - 2019-09-08T17:51:45.249Z - npm-testing /home/travis/build/\</tspan>
 <tspan x="10" y="58">kaizhu256/node-child-process-mkdirp</tspan>
 
 <tspan x="10" y="74"></tspan>
@@ -23,113 +23,135 @@
 <tspan x="10" y="202">npmTest - merged test-report from file /home/travis/build/kaizhu256/node-child-process-mkdirp/tm\</tspan>
 <tspan x="10" y="218">p/build/test-report.json</tspan>
 
-<tspan x="10" y="234">http-server listening on port 34213</tspan>
+<tspan x="10" y="234">http-server listening on port 35369</tspan>
 
 <tspan x="10" y="250">db - dropping database ...</tspan>
 
-<tspan x="10" y="266">testRunDefault - 11397 ms - [node test-case 1 of 7 passed] - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="266">testRunDefault - 81364 ms - [node test-case 1 of 7 passed] - testCase_buildApidoc_default</tspan>
 
-<tspan x="10" y="282">testRunDefault - 11435 ms - [node test-case 2 of 7 passed] - testCase_buildLib_default</tspan>
+<tspan x="10" y="282">testRunDefault - 81398 ms - [node test-case 2 of 7 passed] - testCase_buildLib_default</tspan>
 
-<tspan x="10" y="298">testRunDefault - 11451 ms - [node test-case 3 of 7 passed] - testCase_buildReadme_default</tspan>
+<tspan x="10" y="298">testRunDefault - 81409 ms - [node test-case 3 of 7 passed] - testCase_buildReadme_default</tspan>
 
-<tspan x="10" y="314">testRunDefault - 11455 ms - [node test-case 4 of 7 passed] - testCase_buildTest_default</tspan>
+<tspan x="10" y="314">testRunDefault - 81409 ms - [node test-case 4 of 7 passed] - testCase_buildTest_default</tspan>
 
-<tspan x="10" y="330">testRunDefault - 11459 ms - [node test-case 5 of 7 passed] - testCase_nop_default</tspan>
+<tspan x="10" y="330">testRunDefault - 81410 ms - [node test-case 5 of 7 passed] - testCase_nop_default</tspan>
 
-<tspan x="10" y="346">jslint - 388ms /home/travis/build/kaizhu256/node-child-process-mkdirp/README.md</tspan>
+<tspan x="10" y="346">Fontconfig warning: "/etc/fonts/fonts.conf", line 86: unknown element "blank"</tspan>
 
-<tspan x="10" y="362">jslint - 65ms /home/travis/build/kaizhu256/node-child-process-mkdirp/lib.child_process_mkdirp.js</tspan>
+<tspan x="10" y="362"></tspan>
 
-<tspan x="10" y="378">jslint - 2ms /home/travis/build/kaizhu256/node-child-process-mkdirp/npm_scripts.sh</tspan>
+<tspan x="10" y="378">DevTools listening on ws://127.0.0.1:38219/devtools/browser/5af438f3-bf23-4877-b72d-70e61c8d4cd6</tspan>
 
-<tspan x="10" y="394">jslint - 0ms /home/travis/build/kaizhu256/node-child-process-mkdirp/package.json</tspan>
+<tspan x="10" y="394">[0908/175146.266928:ERROR:command_buffer_proxy_impl.cc(107)] ContextResult::kTransientFailure: S\</tspan>
+<tspan x="10" y="410">hared memory region is not valid</tspan>
 
-<tspan x="10" y="410">Fontconfig warning: "/etc/fonts/fonts.conf", line 86: unknown element "blank"</tspan>
+<tspan x="10" y="426">[0908/175146.284272:ERROR:command_buffer_proxy_impl.cc(107)] ContextResult::kTransientFailure: S\</tspan>
+<tspan x="10" y="442">hared memory region is not valid</tspan>
 
-<tspan x="10" y="426">jslint - 59ms /home/travis/build/kaizhu256/node-child-process-mkdirp/test.js</tspan>
+<tspan x="10" y="458">[0908/175146.288201:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed wi\</tspan>
+<tspan x="10" y="474">th unconsumed attachments: 0/1</tspan>
 
-<tspan x="10" y="442">http-server listening on port 38616</tspan>
+<tspan x="10" y="490">jslint - 599ms /home/travis/build/kaizhu256/node-child-process-mkdirp/README.md</tspan>
 
-<tspan x="10" y="458"></tspan>
+<tspan x="10" y="506">jslint - 54ms /home/travis/build/kaizhu256/node-child-process-mkdirp/lib.child_process_mkdirp.js</tspan>
 
-<tspan x="10" y="474">DevTools listening on ws://127.0.0.1:43488/devtools/browser/9a55c7e8-3af9-4364-b411-cd0f8d8aa44a</tspan>
+<tspan x="10" y="522">jslint - 7ms /home/travis/build/kaizhu256/node-child-process-mkdirp/npm_scripts.sh</tspan>
 
-<tspan x="10" y="490">[0908/175017.922476:INFO:CONSOLE(8)] "db - dropping database ...", source: http://127.0.0.1:3421\</tspan>
-<tspan x="10" y="506">3/assets.example.js (8)</tspan>
+<tspan x="10" y="538">jslint - 0ms /home/travis/build/kaizhu256/node-child-process-mkdirp/package.json</tspan>
 
-<tspan x="10" y="522">[0908/175017.955646:INFO:CONSOLE(8)] "testRunDefault - 4 ms - [browser test-case 1 of 1 passed] \</tspan>
-<tspan x="10" y="538">- testCase_nop_default", source: http://127.0.0.1:34213/assets.example.js (8)</tspan>
+<tspan x="10" y="554">jslint - 63ms /home/travis/build/kaizhu256/node-child-process-mkdirp/test.js</tspan>
 
-<tspan x="10" y="554">testRunDefault - 13798 ms - [node test-case 6 of 7 passed] - testCase_webpage_default</tspan>
+<tspan x="10" y="570">http-server listening on port 39735</tspan>
 
-<tspan x="10" y="570">testRunDefault - 15401 ms - testCase pending - testCase_buildApp_default ...</tspan>
+<tspan x="10" y="586">[0908/175146.865701:INFO:CONSOLE(8)] "db - dropping database ...", source: http://127.0.0.1:3536\</tspan>
+<tspan x="10" y="602">9/assets.example.js (8)</tspan>
 
-<tspan x="10" y="586">testRunDefault - 16918 ms - [node test-case 7 of 7 passed] - testCase_buildApp_default</tspan>
+<tspan x="10" y="618">[0908/175146.903377:INFO:CONSOLE(8)] "testRunDefault - 5 ms - [browser test-case 1 of 1 passed] \</tspan>
+<tspan x="10" y="634">- testCase_nop_default", source: http://127.0.0.1:35369/assets.example.js (8)</tspan>
 
-<tspan x="10" y="602">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="650">testRunDefault - 83549 ms - [node test-case 6 of 7 passed] - testCase_webpage_default</tspan>
 
-<tspan x="10" y="618">File                              |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+<tspan x="10" y="666">testRunDefault - 85368 ms - testCase pending - testCase_buildApp_default ...</tspan>
 
-<tspan x="10" y="634">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="682">testRunDefault - 87144 ms - [node test-case 7 of 7 passed] - testCase_buildApp_default</tspan>
 
-<tspan x="10" y="650">   node-child-process-mkdirp/     |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="698">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
 
-<tspan x="10" y="666">      example.js                  |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="714">File                              |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
 
-<tspan x="10" y="682">      lib.child_process_mkdirp.js |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="730">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
 
-<tspan x="10" y="698">      test.js                     |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="746">   node-child-process-mkdirp/     |       100 |       100 |       100 |       100 |</tspan>
 
-<tspan x="10" y="714">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="762">      example.js                  |       100 |       100 |       100 |       100 |</tspan>
 
-<tspan x="10" y="730">All files                         |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="778">      lib.child_process_mkdirp.js |       100 |       100 |       100 |       100 |</tspan>
 
-<tspan x="10" y="746">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="794">      test.js                     |       100 |       100 |       100 |       100 |</tspan>
 
-<tspan x="10" y="762"></tspan>
+<tspan x="10" y="810">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
 
-<tspan x="10" y="778">created coverage file /home/travis/build/kaizhu256/node-child-process-mkdirp/tmp/build/coverage.\</tspan>
-<tspan x="10" y="794">html/index.html</tspan>
+<tspan x="10" y="826">All files                         |       100 |       100 |       100 |       100 |</tspan>
 
-<tspan x="10" y="810"></tspan>
-
-<tspan x="10" y="826">npmTest - merged test-report from file /home/travis/build/kaizhu256/node-child-process-mkdirp/tm\</tspan>
-<tspan x="10" y="842">p/build/test-report.json</tspan>
+<tspan x="10" y="842">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
 
 <tspan x="10" y="858"></tspan>
 
-<tspan x="10" y="874">-------------------------------------------------------</tspan>
+<tspan x="10" y="874">created coverage file /home/travis/build/kaizhu256/node-child-process-mkdirp/tmp/build/coverage.\</tspan>
+<tspan x="10" y="890">html/index.html</tspan>
 
-<tspan x="10" y="890">| test-report - buildApp - node - linux v12.10.0 - 2019-09-08T17:50:05.060Z</tspan>
+<tspan x="10" y="906"></tspan>
 
-<tspan x="10" y="906">|   16918 ms            0 failed        7 passed      |</tspan>
+<tspan x="10" y="922">npmTest - merged test-report from file /home/travis/build/kaizhu256/node-child-process-mkdirp/tm\</tspan>
+<tspan x="10" y="938">p/build/test-report.json</tspan>
 
-<tspan x="10" y="922">-------------------------------------------------------</tspan>
+<tspan x="10" y="954"></tspan>
 
-<tspan x="10" y="938">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
-<tspan x="10" y="954">L, like Gecko) HeadlessChrome/76.0.3809.132 Safari/537.36 - 2019-09-08T17:50:17.894Z</tspan>
+<tspan x="10" y="970">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="970">|    1004 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="986">| test-report - buildApidoc - node - linux v12.10.0 - 2019-09-08T17:50:24.234Z</tspan>
 
-<tspan x="10" y="986">-------------------------------------------------------</tspan>
+<tspan x="10" y="1002">|   87144 ms            0 failed        7 passed      |</tspan>
 
-<tspan x="10" y="1002"></tspan>
+<tspan x="10" y="1018">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="1018">created test-report file /home/travis/build/kaizhu256/node-child-process-mkdirp/tmp/build/test-r\</tspan>
-<tspan x="10" y="1034">eport.html</tspan>
+<tspan x="10" y="1034">| test-report - buildApp - node - linux v12.10.0 - 2019-09-08T17:50:05.060Z</tspan>
 
-<tspan x="10" y="1050"></tspan>
+<tspan x="10" y="1050">|   16918 ms            0 failed        7 passed      |</tspan>
 
-<tspan x="10" y="1066"></tspan>
+<tspan x="10" y="1066">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="1082">npmTest - 0 failed tests</tspan>
+<tspan x="10" y="1082">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="1098">L, like Gecko) HeadlessChrome/76.0.3809.132 Safari/537.36 - 2019-09-08T17:50:17.894Z</tspan>
 
-<tspan x="10" y="1098"></tspan>
+<tspan x="10" y="1114">|    1004 ms            0 failed        1 passed      |</tspan>
 
-<tspan x="10" y="1114"></tspan>
+<tspan x="10" y="1130">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="1130">\x1b[35m[MODE_BUILD=npmTest]\x1b[0m - 2019-09-08T17:50:23.338Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="1146">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="1162">L, like Gecko) HeadlessChrome/76.0.3809.132 Safari/537.36 - 2019-09-08T17:51:46.818Z</tspan>
+
+<tspan x="10" y="1178">|    1005 ms            0 failed        1 passed      |</tspan>
+
+<tspan x="10" y="1194">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="1210"></tspan>
+
+<tspan x="10" y="1226">created test-report file /home/travis/build/kaizhu256/node-child-process-mkdirp/tmp/build/test-r\</tspan>
+<tspan x="10" y="1242">eport.html</tspan>
+
+<tspan x="10" y="1258"></tspan>
+
+<tspan x="10" y="1274"></tspan>
+
+<tspan x="10" y="1290">npmTest - 0 failed tests</tspan>
+
+<tspan x="10" y="1306"></tspan>
+
+<tspan x="10" y="1322"></tspan>
+
+<tspan x="10" y="1338">\x1b[35m[MODE_BUILD=npmTest]\x1b[0m - 2019-09-08T17:51:52.735Z - EXIT_CODE - 0</tspan>
 
 </text>
 </svg>
